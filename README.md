@@ -14,4 +14,4 @@ The Java tests cover nested block comments, line tracking, unterminated block
 comments, division tokens, and reverse Polish notation. The Racket tests cover
 the functional complement to the Visitor pattern.
 
-The written report and submission PDF are in [`submission`](submission/).
+The written report source is in [`submission`](submission/); the PDF is submitted separately.
